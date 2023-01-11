@@ -10,6 +10,8 @@ This is a [Next.js](https://nextjs.org/) project template by [Maksim Zolotoi](ht
 - Components generating with [plop](https://plopjs.com/)
 - Pages and layouts scaffolder
 - Git precommit hooks
+- Redux with toolkit
+- React query
 
 First, run this to setup git hooks:
 ```bash
