@@ -32,6 +32,7 @@ module.exports = {
     '^@assets(.*)$': '<rootDir>/src/assets$1',
     '^@helpers(.*)$': '<rootDir>/src/helpers$1',
     '^@utils(.*)$': '<rootDir>/src/utils$1',
+    '^@store(.*)$': '<rootDir>/src/store$1',
   },
   // Add more setup options before each test is run
   // setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],

@@ -28,6 +28,8 @@
       "@styles/*": ["styles/*"],
       "@utils": ["utils"],
       "@utils/*": ["utils/*"],
+      "@store": ["store"],
+      "@store/*": ["store/*"]
     }
   },
 
